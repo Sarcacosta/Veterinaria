@@ -1,0 +1,205 @@
+header{
+	width:1200px;
+	height:200px;
+	background-image:url(../img/fondo.jpg);
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	left: 40px;
+	right:40px;
+	position: relative;
+}
+p{
+	font-size:30px;
+	position: relative;
+	margin:0px;
+	left:50px;
+}
+#caninos{
+	font-size:50px;
+	position: relative;
+	margin:0px;
+	left:50px;
+}
+#felinos{
+	font-size:50px;
+	position: relative;
+	margin:0px;
+	left:200px;
+}
+#perrito{
+	position: absolute;
+	top: 32px;
+	left: 595px;
+	width: 70px;
+	height: 90px;
+}
+img{
+	width: 150px;
+	height: 150px;
+}
+#gatito{
+	position: absolute;
+	top: 32px;
+	left: 750px;
+	width: 70px;
+	height: 90px;
+}
+.botones{
+	width: 296px;
+	margin: 2px 2px;
+	height: 40px;
+	background: rgb(67, 165, 97);
+	font-family:'Kaushan Script', cursive;
+	text-align: center;
+	float: left;
+	line-height: 40px;
+	position:relative;
+}
+
+.botones:hover{
+	background: white;
+}
+#servicios{
+	border-bottom-left-radius: 20px;
+}
+#promociones{
+	border-bottom-right-radius:20px;
+}
+nav ul{
+	margin: 0%;
+ 
+}
+#informacion{
+	background-color: rgb(238, 202, 123);
+	position: absolute;
+	top: 300px;
+	width:650px;
+	height: 300px;
+	left: 40px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+#informacion2{
+	background-color: rgb(238, 202, 123);
+	position: relative;
+	top: 405px;
+	width:650px;
+	height: 300px;
+	left: 40px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+#primer{
+	position: absolute;
+	left: 40px;
+	font-size:30px;
+	background: rgba(240, 180, 69, 0.966);
+}
+#primer2{
+	position: absolute;
+	top:70px;
+	left:40px;
+	font-size: 20px;
+	width:380px;
+	text-align: justify;
+}
+#ver{
+	position: absolute;
+	top: 230px;
+	left:40px;
+}
+#segundo{
+	position: absolute;
+	left: 40px;
+	font-size:30px;
+	top: 0px;
+}
+#segundo2{
+	position: absolute;
+	top:70px;
+	left:40px;
+	font-size: 20px;
+	width:380px;
+	text-align: justify;
+}
+#ver2{
+	position: absolute;
+	top: 230px;
+	left:40px;
+}
+#cuidados{
+	position: absolute;
+	left: 450px;
+	top: 80px;
+	border: 2px solid black;
+	border-radius: 20px;
+}
+#viaje{
+	position: absolute;
+	left: 450px;
+	top: 80px;
+	border: 2px solid black;
+	border-radius: 20px;
+}
+aside#derecha{
+	position: absolute;
+	left: 900px;
+	width: 400px;
+	height: 500px;
+	background: rgb(63, 194, 122);
+	top: 300px;
+	border-radius:20px;
+}
+aside#derecha input{
+	position: absolute;
+	width: 100px;
+	margin: 10px;
+}
+div.h1{
+	background: rgb(32, 114, 103);
+	position: absolute;
+	top: 0px;
+	width: 400px;
+	border-top-right-radius:20px;
+	border-top-left-radius:20px;
+	font-size:19px;
+	height: 50px;
+}
+#nombre{
+	top: 63px;
+	left: 110px;
+}
+#edad{
+	top: 111px;
+	left: 110px;
+}
+#Raza{
+	top: 159px;
+	left: 110px;
+}
+#fecha{
+	top: 207px;
+	left: 110px;
+}
+#hora{
+	top: 255px;
+	left: 110px;
+}
+#amo{
+	top: 303px;
+	left: 110px;
+}
+aside#derecha label{
+	width:20px;
+	position: relative;
+	left: 30px;
+	display:flex;
+	margin: 25px;
+	font-size: 19px;
+	top: 45px;
+}
+
+
+
+
+
